@@ -1,6 +1,10 @@
+import { PageTemplate } from "@/components";
+
 const Favoritos = () => {
   return (
-    <h1>favoritos</h1>
+    <PageTemplate>
+      <h1>favoritos</h1>
+    </PageTemplate>
   )
 }
 
